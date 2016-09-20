@@ -1,13 +1,19 @@
 # StartDialogImageView
 【Android】Android开发启动app弹出一张广告图片，Dialog可以查看大图，查看某个图片功能
+
 作者：程序员小冰，GitHub主页：https://github.com/QQ986945193 
+
 新浪微博：http://weibo.com/mcxiaobing 
+
 首先给大家看一下我们今天这个最终实现的效果图： 
+
 ![这里写图片描述](http://img.blog.csdn.net/20160919101351484)
 
 首先说一下，这里利用的是一个dialog，然后设置我们需要的背景图，然后
-在java主类中引用即可，当然这个功能，也可以放在查看某个图片的效果上面。大家
-看情况集中到自己的项目中即可。下面给大家看一下java实现方法：
+
+在java主类中引用即可，当然这个功能，也可以放在查看某个图片的效果上面。
+
+大家看情况集中到自己的项目中即可。下面给大家看一下java实现方法：
 
 ```
 package startdialogimageview.qq986945193.startdialogimageview;
